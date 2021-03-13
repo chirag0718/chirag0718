@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chirag0718
+- 👋 Hi, I’m @chirag
 - 👀 I’m interested in AI development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ..
