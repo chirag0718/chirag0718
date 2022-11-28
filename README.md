@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chirag
-- 👀 I’m master in Artificial Intelligence from the University of Stirling
+- 👀 I have completed master in Artificial Intelligence from the University of Stirling
 - 🌱 Full Stack Engineer
 - 📫 How to reach me chirag.patel0718@gmail.com
 
