@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chirag
-- 👀 I’m interested in AI development
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ..
+- 👀 I’m master in Artificial Intelligence from the University of Stirling
+- 🌱 Full Stack Engineer
 - 📫 How to reach me chirag.patel0718@gmail.com
 
 <!---
